@@ -549,13 +549,12 @@ curl http://localhost:8000/api/score
 
 ## 👥 Team
 
-- **[Your Name]** - ML Engineer & Backend
-- **[Team Member 2]** - Frontend & UI/UX
-- **[Team Member 3]** - Data Engineering
-- **[Team Member 4]** - Business Strategy & Pitch
+- **Madhusuthanan G** - ML Engineer & Backend
+- **Rohith & Kishore** - Frontend & UI/UX
+- **Melwin Davis Raj J** - Data Engineering
+- **Shri Harsan M** - Business Strategy & Pitch
 
 **University:** Great Lakes Institute of Management  
-**Program:** MBA 2024-2026  
 **Hackathon:** SAP × Great Lakes HackFest 2026
 
 ---
@@ -578,11 +577,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Repository:** [github.com/YOUR_USERNAME/agentready-score](https://github.com/YOUR_USERNAME/agentready-score)
+**Project Repository:** [github.com/ShriHarsan64K/agentready-score](https://github.com/ShriHarsan64K/agentready-score)
 
 **Live Demo:** [agentready-score.vercel.app](https://agentready-score.vercel.app)
 
-**Email:** your.email@example.com
+**Email:** shriharsang@gmail.com
 
 ---
 
