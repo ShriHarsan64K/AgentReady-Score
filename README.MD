@@ -431,28 +431,24 @@ GET /api/benchmark
 ### **Screenshots**
 
 #### 1. Score Dashboard
-![Dashboard](./docs/screenshots/dashboard.png)
 - Overall AgentReady Score (circular gauge)
 - 4 sub-scores with color coding
 - 90-day trend chart
 - Radar chart vs competitors
 
 #### 2. Live Simulation
-![Simulation](./docs/screenshots/simulation.png)
 - Real-time SSE feed
 - Agent-by-agent breakdown
 - Revenue lost counter
 - Fraud detection alerts
 
 #### 3. Action Plan
-![Action Plan](./docs/screenshots/action-plan.png)
 - Ranked by annual recovery
 - ROI calculator (165x return)
 - SAP component mapping
 - Live failure counts
 
 #### 4. Competitor Index
-![Benchmark](./docs/screenshots/benchmark.png)
 - All 23 real sellers
 - ML-scored rankings
 - 90-day projection chart
