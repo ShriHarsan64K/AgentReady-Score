@@ -589,7 +589,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *"The retailers who optimize for AI agents first will capture the $1 trillion agentic commerce market."*
 
----
+-----
 
 Made with ❤️ using Python, React, and scikit-learn
 
